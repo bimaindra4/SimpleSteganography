@@ -1,2 +1,4 @@
-# SimpleSteganography
-Steganografi sederhana menggunakan Java
+# Simple Steganography
+Steganografi sederhana menggunakan java
+
+by : Bima Indra :)
